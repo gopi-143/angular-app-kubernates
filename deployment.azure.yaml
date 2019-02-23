@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: 114455/angular-app-aks:#{Build.BuildId}#
+        image: 114455/angular-app-aks:53
         ports: 
         - containerPort: 80 
 --- 
